@@ -18,5 +18,9 @@ print "The addition is:", addition
 
 del L2[1:3]
 
-print "The index [4,9] is deleted from the L2 list and now the values are:", L2
+print "The index [4,9] is deleted from the L2 list str and now the values are:", L2
+
+
+
+
 
